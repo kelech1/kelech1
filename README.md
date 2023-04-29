@@ -2,7 +2,7 @@
   <img  alt="idr"  src="https://github.com/kelech1/kelech1/blob/main/Banner.jpg">
   <h1 align="center"> Hey ! 🔆 </h1>
 </div>
-<img align="right" max-width="800" src="https://github.com/kelech1/kelech1/blob/main/Gilgamesh.gif"/>
+<img align="right" max-width="600" src="https://github.com/kelech1/kelech1/blob/main/Gilgamesh.gif"/>
 
 ```javascript
 const data = {
