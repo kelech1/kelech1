@@ -22,7 +22,7 @@ const data = {
 
 <div align="center">
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelech1&show_icons=true&theme=vision-friendly-dark)
+
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelech1&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 </div>
