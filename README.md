@@ -1,6 +1,6 @@
 <div align="center">
   <img  alt="idr"  src="https://github.com/kelech1/kelech1/blob/main/Banner.jpg">
-  <h1 align="center"> Hey ! 🔆 </h1>
+  <h1 align="center"> Hey ! 🔆</h1>
 </div>
 <img align="right" width="450" src="https://github.com/kelech1/kelech1/blob/main/Gilgamesh.gif"/>
 
