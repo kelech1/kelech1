@@ -33,5 +33,5 @@ const data = {
 
 ## <img height="30" src="https://github.com/kelech1/kelech1/blob/main/illya-stare.gif"/> 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/kelechi-henry-631930251/)
-[![](https://img.shields.io/badge/-X-000000?style=flat-square)](https://twitter.com/0xKacey)
+[![](https://img.shields.io/badge/-   X    -000000?style=flat-square)](https://twitter.com/0xKacey)
 
