@@ -9,7 +9,7 @@ const data = {
   name: "Kelechi Henry",
   aka: Kacey,
   alias: "watermelon",
-  pronouns: ["He", "Him", "Idan"],
+  pronouns: ["He", "Him"],
   tech: {
     frontend: ['React','Tailwind','html','css'],
     others: ['Python']
