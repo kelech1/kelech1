@@ -2,7 +2,7 @@
   <img  alt="idr"  src="https://github.com/kelech1/kelech1/blob/main/Banner.jpg">
   <h1 align="center"> Hey! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 </div>
-<img align="right" width="300" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif"/>
+<img align="right" width="280" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif"/>
 
 ```javascript
 const me = {
@@ -12,7 +12,7 @@ const me = {
   pronouns: ["He", "Him"],
   what: {
     🔆: "Fullstack Developer"
-    🌙: ['gamer, 'creative writer', 'average anime enjoyer', 'food connosseur']
+    🌙: ['gamer, 'creative writer', 'average anime enjoyer', 'food connoisseur']
   tech: {
     frontend: ['React','NextJS','Tailwind','html','css'],
     backend: ['MongoDB', 'PostgreSQL, 'NodeJS']
@@ -44,7 +44,7 @@ const me = {
 
 <br> 
 
-## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
+## connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/kelechi-henry/)
 [![](https://img.shields.io/badge/-twitter-000000?style=flat-square)](https://twitter.com/0xKacey)
 
