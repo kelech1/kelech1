@@ -1,6 +1,6 @@
 <div align="center">
   <img  alt="idr"  src="https://github.com/kelech1/kelech1/blob/main/Banner.jpg">
-  <h1 align="center"> Hey ! 🔆</h1>
+  <h1 align="center"> Hey! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 </div>
 <img align="right" width="450" src="https://github.com/kelech1/kelech1/blob/main/Gilgamesh.gif"/>
 
@@ -8,11 +8,11 @@
 const data = {
   name: "Kelechi Henry",
   aka: Kacey,
-  alias: "watermelon",
+  alias: "watermelon",🍉
   pronouns: ["He", "Him"],
   tech: {
-    frontend: ['React','Tailwind','html','css'],
-    others: ['Python']
+    frontend: ['React','NextJS','Tailwind','html','css'],
+    backend: ['MongoDB', 'PostgreSQL, 'NodeJS']
   },
   language: {
     english: true,
@@ -22,10 +22,17 @@ const data = {
 
 <div align="center">
  
+<a href="https://github.com/Kelech1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelech1&theme=dark&hide_langs_below=1" />
+</a>
 
+<a href="https://github.com/Kelech1">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kelech1&show_icons=true&theme=dark&line_height=27" alt="Kacey's github stats"/>
+</a>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelech1&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+<br>
 
 <div align="center">
   <img width="600" src="https://github.com/kelech1/kelech1/blob/main/departure!.gif">
