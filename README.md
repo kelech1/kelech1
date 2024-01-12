@@ -2,14 +2,17 @@
   <img  alt="idr"  src="https://github.com/kelech1/kelech1/blob/main/Banner.jpg">
   <h1 align="center"> Hey! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 </div>
-<img align="right" width="450" src="https://github.com/kelech1/kelech1/blob/main/Gilgamesh.gif"/>
+<img align="right" width="350" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif"/>
 
 ```javascript
-const data = {
+const me = {
   name: "Kelechi Henry",
   aka: Kacey,
   alias: "watermelon",🍉
   pronouns: ["He", "Him"],
+  what: {
+    🔆: "Fullstack Developer"
+    🌙: ['gamer, 'creative writer', 'average anime enjoyer', 'food connosseur']
   tech: {
     frontend: ['React','NextJS','Tailwind','html','css'],
     backend: ['MongoDB', 'PostgreSQL, 'NodeJS']
@@ -41,4 +44,5 @@ const data = {
 ## <img height="30" src="https://github.com/kelech1/kelech1/blob/main/illya-stare.gif"/> 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/kelechi-henry-631930251/)
 [![](https://img.shields.io/badge/-twitter-000000?style=flat-square)](https://twitter.com/0xKacey)
+
 
