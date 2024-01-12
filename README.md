@@ -12,7 +12,7 @@ const me = {
   pronouns: ["He", "Him"],
   what: {
     🔆: "Fullstack Developer"
-    🌙: ['gamer, 'creative writer', 'average anime enjoyer', 'food connoisseur']
+    🌙: ['gamer', 'creative writer', 'average anime enjoyer', 'food connoisseur']
   tech: {
     frontend: ['React','NextJS','Tailwind','html','css'],
     backend: ['MongoDB', 'PostgreSQL, 'NodeJS']
