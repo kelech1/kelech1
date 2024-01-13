@@ -47,6 +47,7 @@ const me = {
 ## connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/kelechi-henry/)
 [![](https://img.shields.io/badge/-twitter-000000?style=flat-square)](https://twitter.com/0xKacey)
+[![](https://img.shields.io/badge/-email-fb8500?style=flat-square)](mailto:kelechihenry80@gmail.com)
 
 <br>
 
