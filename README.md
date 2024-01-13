@@ -26,11 +26,11 @@ const me = {
 <div align="center">
  
 <a href="https://github.com/Kelech1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelech1&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelech1&theme=neon&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Kelech1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kelech1&show_icons=true&theme=dark&line_height=27" alt="Kacey's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kelech1&show_icons=true&theme=vision-friendly-dark&line_height=27" alt="Kacey's github stats"/>
 </a>
 
 </div>
