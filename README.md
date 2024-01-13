@@ -2,7 +2,7 @@
   <img  alt="idr"  src="https://github.com/kelech1/kelech1/blob/main/Banner.jpg">
   <h1 align="center"> Hey! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 </div>
-<img align="right" width="280" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif"/>
+<img align="right" width="280" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif" alt="gif by https://giphy.com/channel/Hjarnfonden"/>
 
 ```javascript
 const me = {
