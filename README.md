@@ -15,7 +15,7 @@ const me = {
     🌙: ['gamer','creative writer', 'average anime enjoyer','food connoisseur'],
   tech: {
     frontend: ['React','NextJS','Tailwind','html','css'],
-    backend: ['MongoDB', 'PostgreSQL, 'NodeJS'],
+    backend: ['MongoDB','GraphQL','PostgreSQL','NodeJS'],
   },
   language: {
     english: true,
