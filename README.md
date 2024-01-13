@@ -7,8 +7,8 @@
 ```javascript
 const me = {
   name: "Kelechi Henry",
-  codename: Kacey,
-  alias: "watermelon",🍉
+  aka: Kacey,
+  codename: "watermelon",🍉
   pronouns: ["He", "Him"],
   what?: {
     🔆: "Fullstack Developer"
