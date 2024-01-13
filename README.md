@@ -1,5 +1,5 @@
 <div align="center">
-  <img  alt="idr"  src="https://github.com/kelech1/kelech1/blob/main/Banner.jpg">
+  <img  alt="Toman Herobanner"  src="https://github.com/kelech1/kelech1/blob/main/Banner.jpg">
   <h1 align="center"> Hey! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 </div>
 <img align="right" width="280" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif" alt="gif by https://giphy.com/channel/Hjarnfonden"/>
@@ -7,15 +7,15 @@
 ```javascript
 const me = {
   name: "Kelechi Henry",
-  aka: Kacey,
+  codename: Kacey,
   alias: "watermelon",🍉
   pronouns: ["He", "Him"],
-  what: {
+  what?: {
     🔆: "Fullstack Developer"
-    🌙: ['gamer', 'creative writer', 'average anime enjoyer', 'food connoisseur']
+    🌙: ['gamer', 'creative writer', 'average anime enjoyer', 'food connoisseur'],
   tech: {
     frontend: ['React','NextJS','Tailwind','html','css'],
-    backend: ['MongoDB', 'PostgreSQL, 'NodeJS']
+    backend: ['MongoDB', 'PostgreSQL, 'NodeJS'],
   },
   language: {
     english: true,
