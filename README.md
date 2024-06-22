@@ -2,7 +2,7 @@
   <img  alt="Toman Herobanner"  src="https://github.com/kelech1/kelech1/blob/main/Banner.jpg">
 </div>
 
-# Hi, I'm Kacey 👋 &nbsp;
+# Hi, I'm Kacey 👋🏽 &nbsp;
 <img align="right" width="220" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif" alt="gif by https://giphy.com/channel/Hjarnfonden"/>
 <p><em>Blog and Course Content Curator at <a href="https://www.web3sy.com/">Web3sy
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -50,8 +50,9 @@ const watermelon = {
  
 
 <a href="https://github.com/Kelech1">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kelech1&show_icons=true&theme=vision-friendly-dark&count_private=true&line_height=25" alt="Kacey's github stats"/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kelech1&theme=burnt-neon&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+ <img  width="420"  src="https://github-readme-stats.vercel.app/api?username=Kelech1&show_icons=true&theme=vision-friendly-dark&count_private=true&line_height=24" alt="Kacey's github stats"/>
+
+  <img  width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Kelech1&theme=burnt-neon&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
 </a>
 
 
