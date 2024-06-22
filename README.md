@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I'm Kacey 👋🏽 &nbsp;
-<img align="right" width="220" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif" alt="gif by https://giphy.com/channel/Hjarnfonden"/>
+<img align="right" width="220" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif" />
 <p><em>Blog and Course Content Curator at <a href="https://www.web3sy.com/">Web3sy
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -42,15 +42,18 @@ const watermelon = {
     funFact: "It's all 0's and 1's"
 };
 ```
+ &nbsp;
 
 
+## <img  width="25" src="https://github.com/kelech1/kelech1/blob/main/retwopc.gif" /> Github Stats
 
-
+ &nbsp;
+ 
 <div align="center">
  
 
 <a href="https://github.com/Kelech1">
- <img  width="420"  src="https://github-readme-stats.vercel.app/api?username=Kelech1&show_icons=true&theme=vision-friendly-dark&count_private=true&line_height=24" alt="Kacey's github stats"/>
+ <img  width="420"  src="https://github-readme-stats.vercel.app/api?username=Kelech1&show_icons=true&theme=aura&count_private=true&line_height=23" alt="Kacey's github stats"/>
 
   <img  width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Kelech1&theme=burnt-neon&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
 </a>
