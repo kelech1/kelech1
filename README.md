@@ -4,7 +4,7 @@
 
 # Hi, I'm Kacey 👋🏽 &nbsp;
 <img align="right" width="220" src="https://github.com/kelech1/kelech1/blob/main/davidxflower.gif" />
-<p><em>Blog and Course Content Curator at <a href="https://www.web3sy.com/">Web3sy
+<p><em>Blog and Course Content Curator at <a href="https://www.web3sy.com/" target="_blank">Web3sy
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
