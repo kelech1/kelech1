@@ -13,7 +13,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://watermxlon.vercel.app/)](https://watermxlon.vercel.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=kelech1.kelech1)
 
-I'm a full-stack developer who loves bringing ideas to life with code. I work on both front-end and back-end development, ensuring everything is perfectly optimized. I’m all about JavaScript, React, Node.js, and Python, and I try to having fun while keeping up with the latest trends. Let's build something together! 🚀
+I'm a full-stack developer who loves bringing ideas to life with code. I work on both front-end and back-end development, ensuring everything is perfectly optimized. I’m all about JavaScript, React, Node.js, and PHP (lol), and I try to having fun while keeping up with the latest trends. Let's build something together! 🚀
 
 Feel free to check out my projects and connect with me!
 
