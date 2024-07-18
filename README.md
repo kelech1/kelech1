@@ -10,7 +10,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xkacey?label=Follow)](https://twitter.com/intent/follow?screen_name=0xkacey)
 [![Linkedin: anmol](https://img.shields.io/badge/-Kacey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelechi-henry/)](https://www.linkedin.com/in/kelechi-henry/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://watermxlon.vercel.app/)](https://watermxlon.vercel.app/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kacey.vercel.app/)](https://kacey.vercel.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=kelech1.kelech1)
 
 I'm a full-stack developer who loves bringing ideas to life with code. I work on both front-end and back-end development, ensuring everything is perfectly optimized. I’m all about JavaScript, React, Node.js, and PHP (lol), and I try to having fun while keeping up with the latest trends. Let's build something together! 🚀
