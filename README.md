@@ -37,7 +37,7 @@ const watermelon = {
         misc: ["Firebase", "open-cv", "WordPress"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "None at this time",
+    currentFocus: "Building with HTMX and Go",
     funFact: "It's all 0's and 1's"
 };
 ```
