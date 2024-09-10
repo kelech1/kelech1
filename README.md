@@ -13,7 +13,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kacey.vercel.app/)](https://kacey.vercel.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=kelech1.kelech1)
 
-I'm a full-stack developer who loves bringing ideas to life with code. I work on both front-end and back-end development, ensuring everything is perfectly optimized. I’m all about JavaScript, React, Node.js, and PHP (lol), and I try to having fun while keeping up with the latest trends. Let's build something together! 🚀
+I'm a full-stack engineer who loves bringing ideas to life with code. I work on both front-end and back-end development, ensuring everything is perfectly optimized. I’m all about JavaScript, React, Node.js, and PHP (lol), and I try to having fun while keeping up with the latest trend. Let's build something together! 🚀
 
 Feel free to check out my projects and connect with me!
 
@@ -24,11 +24,11 @@ Feel free to check out my projects and connect with me!
 ```javascript
 const watermelon = {
   fullName: "Kelechi Henry",
-  pronouns: "He" |"Him",
+  pronouns: "He" | "Him",
   what?: {
     🔆: "Fullstack Developer"
-    🌙: [' gamer ',' content writer', 'average anime enjoyer',' food connoisseur'],
-    code: ["Javascript", "Typescript", "Python",  "PHP"],
+    🌙: [' gamer ',' content writer', 'average anime enjoyer',' food connoisseur', 'subpar grass toucher'],
+    code: ["Javascript", "Typescript", "Python",  "PHP", Go],
     technologies: {
         backEnd: ["Node", "Express"],
         frontEnd: ["ReactJS", "NEXT"],
