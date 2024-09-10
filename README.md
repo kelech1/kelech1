@@ -28,7 +28,7 @@ const watermelon = {
   what?: {
     🔆: "Fullstack Developer"
     🌙: [' gamer ',' content writer', 'average anime enjoyer',' food connoisseur', 'subpar grass toucher'],
-    code: ["Javascript", "Typescript", "Python",  "PHP", Go],
+    code: ["Javascript", "Typescript", "Python",  "PHP", "Go"],
     technologies: {
         backEnd: ["Node", "Express"],
         frontEnd: ["ReactJS", "NEXT"],
