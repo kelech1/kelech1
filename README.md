@@ -18,7 +18,7 @@
 
 ###
 
-```javascript
+```typescript
 const watermelon = {
   fullName: "Kelechi Henry",
   pronouns: "He" | "Him",
