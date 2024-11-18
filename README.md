@@ -18,7 +18,7 @@
 
 ###
 
-```typescript
+```javascript
 const watermelon = {
   fullName: "Kelechi Henry",
   pronouns: "He" | "Him",
@@ -31,7 +31,7 @@ const watermelon = {
         frontEnd: ["ReactJS", "NEXT"],
         style: ["Tailwind", "SCSS", "Bootstrap"],
         databases: ["mongo", "MySql", "SQLite", "GraphQL", "PostgreSQL"],
-        misc: ["Firebase", "open-cv", "WordPress"]
+        misc: ["Firebase", "open-cv", "WordPress", "Sanity"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Building with HTMX and Go",
