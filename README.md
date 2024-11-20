@@ -35,7 +35,7 @@ const watermelon = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Building with HTMX and Go",
-    funFact: "It's all 0's and 1's"
+    funFact: "It's all 0's and 1's, or is it... 👁️👁️"
 };
 ```
  &nbsp;
